@@ -9,8 +9,6 @@ This repository contains a **Real Time Device Tracking Web Application** built u
 This project allows real-time tracking of devices on a web dashboard.  
 It uses a server to receive device data and send updates instantly to connected clients.
 
-This application was built by following this tutorial:  
-📺 https://youtu.be/JmpDGMgRFfo
 
 ---
 
